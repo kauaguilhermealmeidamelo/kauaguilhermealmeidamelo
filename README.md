@@ -1,6 +1,6 @@
 # Olá, eu sou Kauã
 - 👨🏿‍🏫 Atualmente trabalho como programador de sistemas na G4F DF
-- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, PHP e JavaScript
+- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, PHP, JavaScript e Banco de Dados
 - 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
 
  <div style="display: inline_block">
