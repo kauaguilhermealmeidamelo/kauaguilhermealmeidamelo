@@ -20,5 +20,5 @@
   
 </div>
  
-[![Docente Rafael current streak](https://streak-stats.demolab.com/?user=DocenteDevRafael&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Kauã Guilherme current streak](https://streak-stats.demolab.com/?user=DocenteDevRafael&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
