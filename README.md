@@ -1,7 +1,6 @@
 # Olá, eu sou Kauã
 - 👨🏿‍🏫 Atualmente trabalho como programador de sistemas na G4F DF
-- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, PHP, JavaScript e Banco de Dados
-- 🧑🏿‍💻 Pergunte-me sobre Desenvolvimento de Sistemas
+- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, PHP, JavaScript, Lua e Banco de Dados
 
  <div style="display: inline_block">
   <br>
@@ -9,6 +8,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+<img align="center" alt="Rafa-Lua" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/lua.svg">
   </div>
   
   ##
